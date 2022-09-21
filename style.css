@@ -1,7 +1,11 @@
 body
 {
     background-color: rgb(64, 78, 104);
+<<<<<<< HEAD
     color: rgb(156, 156, 156);
+=======
+    color: rgb(220, 224, 245);
+>>>>>>> 44ec556c591d687add6a86450071fa472373fb05
     font-size: 25px;
     font-family:'Titan One', cursive;
     ;
@@ -15,7 +19,11 @@ color: rgb(255, 255, 255);
 text-align: center;
 background-color: rgb(57, 67, 84); 
 padding: 25px ;
+<<<<<<< HEAD
 border: 5px solid rgb(182, 180, 202);
+=======
+border: 5px solid rgb;
+>>>>>>> 44ec556c591d687add6a86450071fa472373fb05
 font-size: 75px;
 margin: 20px;
 
@@ -39,4 +47,19 @@ font-size: 15px;
 font-family:'Inconsolata', monospace;;
 color: white;
 text-align: center;
+<<<<<<< HEAD
+=======
+}
+
+.pictures {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+.titledesc {
+    padding-left: 50px;
+    
+>>>>>>> 44ec556c591d687add6a86450071fa472373fb05
 }
