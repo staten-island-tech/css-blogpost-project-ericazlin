@@ -1,6 +1,7 @@
 body
 {
     background-color: rgb(64, 78, 104);
+    color: rgb(156, 156, 156);
     color: rgb(220, 224, 245);
     font-size: 25px;
     font-family:'Titan One', cursive;
@@ -15,6 +16,7 @@ color: rgb(255, 255, 255);
 text-align: center;
 background-color: rgb(57, 67, 84); 
 padding: 25px ;
+border: 5px solid rgb(182, 180, 202);
 border: 5px solid rgb;
 font-size: 75px;
 margin: 20px;
@@ -27,7 +29,7 @@ margin: 20px;
 
 .second { 
     font-family: 'Inconsolata', monospace;;
-    color: rgb(220, 224, 245);
+    color: rgb(243, 243, 246);
     font-size: 25px;
     margin-left: 30px;
     text-align: justify;
@@ -41,14 +43,34 @@ color: white;
 text-align: center;
 }
 
-.pictures {
+.picture1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 30px;
+    margin-left: 25px;
+    margin-bottom: 150px;
+    margin-right: 25px;
 }
 
 .titledesc {
     padding-left: 50px;
-    
+    padding-right: 30px;
+}
+
+#back1 {
+    background-color:rgb(87, 98, 124) ;
+    padding: 30px;
+    border:rgb(255, 255, 255) solid 3px ; 
+}
+
+#back2 {
+    background-color:rgb(87, 98, 124) ;
+    padding: 30px;
+    border: rgb(255, 255, 255) solid 3px ;
+}
+
+#back3 {
+    background-color:rgb(87, 98, 124) ;
+    padding: 30px;
+    border: rgb(255, 255, 255) solid 3px ; 
 }
